@@ -1,0 +1,167 @@
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+bash-3.2$  /Library/Java/JavaVirtualMachines/adoptopenjdk-11.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:50314 -Dfile.encoding=UTF-8 -cp "/Users/derekcampbell/Library/Application Support/Code/User/workspaceStorage/ece3955247a73aa437627f4955a83656/redhat.java/jdt_ws/Lab 1B_3f87487b/bin" TheaterSeatSeller 
+
+       [0]  [1]  [2]  [3]  [4]  [5]  [6]  [7]  [8]  [9]
+  [0]   10   10   10   10   10   10   10   10   10   10
+  [1]   10   10   10   10   10   10   10   10   10   10
+  [2]   10   10   10   10   10   10   10   10   10   10
+  [3]   10   10   20   20   20   20   20   20   10   10
+  [4]   10   10   20   20   20   20   20   20   10   10
+  [5]   10   10   20   20   20   20   20   20   10   10
+  [6]   20   20   30   30   40   40   30   30   20   20
+  [7]   20   30   30   40   50   50   40   30   30   20
+  [8]   30   40   50   50   50   50   50   50   40   30
+Tickets Available by Price:
+$10: 42
+$20: 24
+$30: 10
+$40: 6
+$50: 8
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+P
+50
+P
+50
+P
+50
+P
+50
+P
+50
+P
+50
+P
+50
+P
+50
+P
+50
+P
+50
+L
+0 0
+L
+0 1
+L
+0 2
+L
+0 3
+L
+0 4
+R
+Q
+You chose option: Price
+Enter Price (10,20,30,40,50):
+You chose to buy a ticket with price: $50
+Congratulations, you purchased a ticket for $50
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+You chose option: Price
+Enter Price (10,20,30,40,50):
+You chose to buy a ticket with price: $50
+Congratulations, you purchased a ticket for $50
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+You chose option: Price
+Enter Price (10,20,30,40,50):
+You chose to buy a ticket with price: $50
+Congratulations, you purchased a ticket for $50
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+You chose option: Price
+Enter Price (10,20,30,40,50):
+You chose to buy a ticket with price: $50
+Congratulations, you purchased a ticket for $50
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+You chose option: Price
+Enter Price (10,20,30,40,50):
+You chose to buy a ticket with price: $50
+Congratulations, you purchased a ticket for $50
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+You chose option: Price
+Enter Price (10,20,30,40,50):
+You chose to buy a ticket with price: $50
+Congratulations, you purchased a ticket for $50
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+You chose option: Price
+Enter Price (10,20,30,40,50):
+You chose to buy a ticket with price: $50
+Congratulations, you purchased a ticket for $50
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+You chose option: Price
+Enter Price (10,20,30,40,50):
+You chose to buy a ticket with price: $50
+Congratulations, you purchased a ticket for $50
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+You chose option: Price
+Enter Price (10,20,30,40,50):
+You chose to buy a ticket with price: $50
+Sorry, no more tickets available for this price
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+You chose option: Price
+Enter Price (10,20,30,40,50):
+You chose to buy a ticket with price: $50
+Sorry, no more tickets available for this price
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+You chose option: Location
+Enter Row and Column separated by a space:
+You chose row: 0, col: 0
+Congratulations, you purchased a ticket for at: 0, 0
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+You chose option: Location
+Enter Row and Column separated by a space:
+You chose row: 0, col: 1
+Congratulations, you purchased a ticket for at: 0, 1
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+You chose option: Location
+Enter Row and Column separated by a space:
+You chose row: 0, col: 2
+Congratulations, you purchased a ticket for at: 0, 2
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+You chose option: Location
+Enter Row and Column separated by a space:
+You chose row: 0, col: 3
+Congratulations, you purchased a ticket for at: 0, 3
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+You chose option: Location
+Enter Row and Column separated by a space:
+You chose row: 0, col: 4
+Congratulations, you purchased a ticket for at: 0, 4
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+
+       [0]  [1]  [2]  [3]  [4]  [5]  [6]  [7]  [8]  [9]
+  [0]    0    0    0    0    0   10   10   10   10   10
+  [1]   10   10   10   10   10   10   10   10   10   10
+  [2]   10   10   10   10   10   10   10   10   10   10
+  [3]   10   10   20   20   20   20   20   20   10   10
+  [4]   10   10   20   20   20   20   20   20   10   10
+  [5]   10   10   20   20   20   20   20   20   10   10
+  [6]   20   20   30   30   40   40   30   30   20   20
+  [7]   20   30   30   40    0    0   40   30   30   20
+  [8]   30   40    0    0    0    0    0    0   40   30
+Tickets Available by Price:
+$10: 37
+$20: 24
+$30: 10
+$40: 6
+$50: 0
+
+Purchase by (P)rice or (L)ocation, P(R)INT, (Q)uit
+Good bye!!!
+bash-3.2$ 

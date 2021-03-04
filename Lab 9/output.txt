@@ -1,0 +1,15 @@
+Elapsed Selection Sorting time for array sized 100: 1 milliseconds
+Elapsed Merge Sorting time for array sized 100: 1 milliseconds
+Elapsed Array Sorting time for array sized 100: 0 milliseconds
+Elapsed Selection Sorting time for array sized 1000: 3 milliseconds
+Elapsed Merge Sorting time for array sized 1000: 1 milliseconds
+Elapsed Array Sorting time for array sized 1000: 0 milliseconds
+Elapsed Selection Sorting time for array sized 10,000: 33 milliseconds
+Elapsed Merge Sorting time for array sized 10,000: 2 milliseconds
+Elapsed Array Sorting time for array sized 10,000: 3 milliseconds
+Elapsed Selection Sorting time for array sized 100,000: 2975 milliseconds
+Elapsed Merge Sorting time for array sized 100,000: 15 milliseconds
+Elapsed Array Sorting time for array sized 100,000: 3 milliseconds
+Elapsed Selection Sorting time for array sized 1,000,000: 293876 milliseconds
+Elapsed Merge Sorting time for array sized 1,000,000: 149 milliseconds
+Elapsed Array Sorting time for array sized 1,000,000: 4 milliseconds
